@@ -34,6 +34,11 @@
   background-color: red;
   
 }
+.button:hover{
+  color: black;
+  background-color: white ;
+  
+  }
 .main h1{
   font-size: 60px;
   margin-bottom: 20px;
